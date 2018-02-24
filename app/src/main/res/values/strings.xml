@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Joe\'s Coffee Shop</string>
+    <string name="phone">Any questions? Call: 000-777-555-666</string>
+    <string name="address">Find us at: View Street, No.4, New York</string>
+    <string name="hours">We are open 24/7</string>
+    <string name="description">Joe\'s Coffee Shop is the right place for the right coffee</string>
+</resources>

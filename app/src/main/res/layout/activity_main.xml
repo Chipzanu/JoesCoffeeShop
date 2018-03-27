@@ -1,4 +1,4 @@
-<ScrollView
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".MainActivity"
@@ -16,10 +16,11 @@
                 android:id="@+id/joe_image_view"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:adjustViewBounds="false"
+                android:adjustViewBounds="true"
                 android:background="#62a6de"
                 android:scaleType="centerCrop"
-                android:src="@drawable/joe"/>
+                android:src="@drawable/joe3"
+                />
         </RelativeLayout>
         <LinearLayout
             android:layout_width="match_parent"
@@ -66,4 +67,4 @@
 
         </LinearLayout>
     </LinearLayout>
-</ScrollView>
+</LinearLayout>

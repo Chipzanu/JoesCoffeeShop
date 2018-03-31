@@ -3,5 +3,6 @@
     <dimen name="space_size_all">36dp</dimen>
     <dimen name="space_size_left">24dp</dimen>
     <dimen name="space_size_bottom">12dp</dimen>
-    <dimen name="description_size">16sp</dimen>
+    <dimen name="description_size">20sp</dimen>.
+    <dimen name="details_size">16sp</dimen>
 </resources>

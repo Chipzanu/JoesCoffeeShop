@@ -45,6 +45,7 @@
                 android:paddingLeft="@dimen/space_size_left"
                 android:paddingRight="@dimen/space_size_left"
                 android:text="@string/address"
+                android:textSize="@dimen/details_size"
                 android:textColor="#d3d4d3"/>
 
             <TextView
@@ -54,6 +55,7 @@
                 android:paddingLeft="@dimen/space_size_left"
                 android:paddingRight="@dimen/space_size_left"
                 android:text="@string/hours"
+                android:textSize="@dimen/details_size"
                 android:textColor="#d3d4d3"/>
 
             <TextView
@@ -63,6 +65,7 @@
                 android:paddingLeft="@dimen/space_size_left"
                 android:paddingRight="@dimen/space_size_left"
                 android:text="@string/phone"
+                android:textSize="@dimen/details_size"
                 android:textColor="#d3d4d3"/>
 
         </LinearLayout>
